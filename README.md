@@ -1,6 +1,6 @@
 # Building-Models-to-Predict-The-Prospective-Customer-using-pyspark
 
-This repository consists of the Jupyter notebook providing usage of Pyspark machine learning framework, 
+This repository consists of the Jupyter notebook as a part of FIT5202 providing usage of Pyspark machine learning framework, 
 and feature selection and engineering as the following:
 
 1. Data wrangling (Remove necessary columns and add new columns using UDF functions).
